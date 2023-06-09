@@ -6,6 +6,7 @@ font-family: myFirstFont;
 div {
 background-color: #f5c9da;
 border-radius: 10px;
+text-align: center;
 }
 
 @font-face {
