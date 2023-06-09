@@ -12,8 +12,13 @@
 
 <h2>dotsunny</h2>
 <p>hi! welcome to my site :3</p>
+<button id="myButton" class="float-left submit-button" >Home</button>
 
-<input type="button" onclick="location.href='music.html';" value="music" />
+<script type="text/javascript">
+    document.getElementById("music").onclick = function () {
+        location.href = "music.html";
+    };
+</script>
 </div>
 </body>
 </html>
