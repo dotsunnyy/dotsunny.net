@@ -39,6 +39,7 @@ text-align: center;
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
+    font-family: myFirstFont;
   }
   
 a {
