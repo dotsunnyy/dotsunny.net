@@ -1,6 +1,7 @@
 body {
 background-color: #fce0ec;
 font-family: myFirstFont;
+color: #332032;
 }
 
 div {
@@ -19,7 +20,7 @@ text-align: center;
     border-radius: 8px;
     border-style: none;
     box-sizing: border-box;
-    color: #f8ddf6;
+    color: #332032;
     cursor: pointer;
     display: inline-block;
     font-size: 14px;
