@@ -14,19 +14,34 @@ text-align: center;
     src: url(MochiyPopPOne-Regular.ttf);
   }
 
-  button {
-    display: inline-block;
-    outline: none;
-    cursor: pointer;
-    font-size: 16px;
-    line-height: 20px;
-    font-weight: 600;
-    border-radius: 8px;
-    padding: 14px 24px;
-    border: none;
-    transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
-    background: linear-gradient(to right, rgb(230, 30, 77) 0%, rgb(227, 28, 95) 50%, rgb(215, 4, 102) 100%);
-    color: #fff;
-  }
+  <!-- HTML !-->
+<button class="button-1" role="button">Button 1</button>
 
-  #e0b6c6
+/* CSS */
+.button {
+  background-color: #EA4C89;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
