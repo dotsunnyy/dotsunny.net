@@ -1,9 +1,14 @@
 body {
-background-color: #7c5295;
-    
+background-color: #fce0ec;
+font-family: myFirstFont;
 }
 
 div {
-background-color: #663a82;
-
+background-color: #ffdbe9;
+border-radius: 10px;
 }
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(MochiyPopPOne-Regular.ttf);
+  }
