@@ -14,7 +14,7 @@ text-align: center;
     src: url(MochiyPopPOne-Regular.ttf);
   }
 
-  .button-1 {
+  button {
     background-color: #e8bacc;
     border-radius: 8px;
     border-style: none;
