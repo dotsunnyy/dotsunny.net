@@ -1,6 +1,8 @@
 body {
 font-family: 'Darumadrop One', sans-serif;
-
+overflow: hidden;
+margin: 0;
+padding: 0;
 }
 
 #full {
