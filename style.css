@@ -11,7 +11,7 @@ font-family: 'Darumadrop One', sans-serif;
     top: 0;
     bottom: 0;
     position: absolute;
-  background: linear-gradient(124deg, #ff00c8, #00ff0d);
+  background: linear-gradient(124deg, #ff00c8, #BF4099, #80806B, #40BF3C, #00FF0D);
   background-size: 1800% 1800%;
   
   -webkit-animation: rainbow 18s ease infinite;
