@@ -4,3 +4,10 @@ background-image: url("images/bg.png");
 background-size: 350px;
 background-repeat: repeat;
 }
+
+.box {
+background-color: #6a6d7d;
+border: 3px;
+border-color: #625e6f;
+
+}
