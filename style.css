@@ -30,6 +30,7 @@ margin: auto;
   }
 
   hr.new2 {
-    border-top: 3px dashed #2f2d35;
-    
+    height: 1px;
+    background-color: blue;
+    border: none;
   }
