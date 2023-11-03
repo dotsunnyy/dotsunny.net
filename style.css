@@ -30,6 +30,5 @@ margin: auto;
   }
 
 hr {
-  color: #2f2d35;
-  border-radius: 1px;
+	border-top: 1px dashed #8c8b8b;
   }
