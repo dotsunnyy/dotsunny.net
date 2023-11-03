@@ -34,3 +34,8 @@ margin: auto;
     background-color: #2f2d35;
     border: none;
   }
+.bottom {
+background-image: url("images/kitty.gif");
+background-repeat: repeat-x;
+
+}
