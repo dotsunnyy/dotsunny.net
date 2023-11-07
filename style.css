@@ -68,8 +68,9 @@ button {
   border-radius: 8px;
   border-width: 0;
   color: #333333;
-  cursor: pointer;
+  cursor: help;
   display: inline-block;
+  font-family: 'Darumadrop One', sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 20px;
